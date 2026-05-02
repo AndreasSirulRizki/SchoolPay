@@ -110,7 +110,7 @@ website-spp/
 
 ## 📄 Dokumentasi
 
-Dokumentasi lengkap tersedia di folder `../dokumentasi/`:
+Dokumentasi lengkap tersedia di [sini](https://github.com/AndreasSirulRizki/dokumentasi-SchoolPay) :
 
 | File | Isi |
 |------|-----|
